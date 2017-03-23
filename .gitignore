@@ -1,0 +1,8 @@
+# vscode task settings
+.vscode/
+
+# nodejs modules
+node_modules/
+
+# OS X system file
+.DS_Store
