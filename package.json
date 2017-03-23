@@ -1,0 +1,27 @@
+{
+  "name": "b4w_obj",
+  "version": "1.0.0",
+  "description": "assist tool for blend4web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/karl27hg/b4w_object_tool.git"
+  },
+  "keywords": [
+    "b4w",
+    "blend4web",
+    "webGL"
+  ],
+  "author": "karl27hg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karl27hg/b4w_object_tool/issues"
+  },
+  "homepage": "https://github.com/karl27hg/b4w_object_tool#readme",
+  "dependencies": {
+    "@types/jquery": "^2.0.41"
+  }
+}
